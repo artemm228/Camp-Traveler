@@ -4,7 +4,6 @@ import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-
   title: "Travel",
   description: "Travel UI/UX App",
 };
